@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WAZE</string>
+    <string name="source_hint"><font size="10">ENTER SOURCE HERE</font></string>
+    <string name="destination_hint"><font size="16">ENTER DESTINATION HERE</font></string>
+</resources>

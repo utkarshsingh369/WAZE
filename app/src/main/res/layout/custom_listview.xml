@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="60dp"
+    android:paddingRight="60dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="↓"
+        android:gravity="center|top"
+        android:textStyle="bold"
+        android:textSize="70sp"
+        android:textColor="@color/teal_700"
+        android:background="@color/white"
+        />
+    <TextView
+        android:id="@+id/tvLV"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        android:gravity="center"
+        android:background="@color/teal_700_light"
+        android:text="" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
