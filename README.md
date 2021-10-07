@@ -5,3 +5,4 @@ Total 26 cities are given as option.
 
 osmdroid is used to show the path between two cities.
 
+Download the apk file attatched :)
