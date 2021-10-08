@@ -10,5 +10,6 @@
     <color name="grayLight">#CFC7C7</color>
     <color name="teal_700_light">#ADD5D5</color>
     <color name="grayDark">#57697d</color>
-    <color name="red">#FF0000</color>
+    <color name="red">#E63F3F</color>
+    <color name="red_light">#FBB9B9</color>
 </resources>
